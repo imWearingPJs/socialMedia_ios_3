@@ -1,6 +1,7 @@
 # stormViewer
 
 Description:
+
 Opens with a list view of images. When any of the items are clicked, the image will slide in from the right. You can tap on the screen to hide navigation bar, and swipe back to get to the list view.
 
 This project included the basics of:
